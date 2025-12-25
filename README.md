@@ -14,3 +14,4 @@ It allows users to add, view, and delete daily expenses.
    ```bash
    git clone [https://github.com/aayuwushh/MERN-Expense-Tracker.git](https://github.com/aayuwushh/MERN-Expense-Tracker.git)
    cd MERN-Expense-Tracker
+<img width="1879" height="552" alt="image" src="https://github.com/user-attachments/assets/f027ee51-ede7-4a89-9fc9-99e8e260e057" />
